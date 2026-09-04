@@ -11,7 +11,7 @@ This Ricing is based off of a rice originally developed by a user called Diinki,
 
 </details>
 
-# links to the Inspiration/Dev:
+## links to the Inspiration/Dev:
 - [Diinki's Git Account](https://github.com/diinki)
 - [The Repo this is a Fork of](https://github.com/diinki/diinki-retrofuture)
 - [YouTube Guide I Used to Set up the Rice +Diinki's YT](https://youtu.be/jFz5gLqv-FM?si=fogwQZB9gi87ARKV)
